@@ -40,7 +40,7 @@ Analysis of customer behavior, retention, and lifetime value for an e-commerce c
 
 **📈 Visualization:**
 
-<img src="images/2_cohort_analysis.png" alt="Cohort Analysis" style="width: 50%; height: auto;">
+<img src="images/2_cohort_analysis.png" alt="Cohort Analysis" style="width: 70%; height: auto;">
 
 📊 **Key Findings:**
 - Revenue per customer shows an alarming decreasing trend over time
@@ -61,7 +61,7 @@ Analysis of customer behavior, retention, and lifetime value for an e-commerce c
 
 **📈 Visualization:**
 
-<img src="images/3_retention_analysis.png" alt="Customer Churn by Cohort Year" style="width: 50%; height: auto;">
+<img src="images/3_retention_analysis.png" alt="Customer Churn by Cohort Year" style="width: 70%; height: auto;">
 
 📊 **Key Findings:**  
 - Cohort churn stabilizes at ~90% after 2-3 years, indicating a predictable long-term retention pattern.  
